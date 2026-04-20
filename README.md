@@ -4,6 +4,12 @@
 
 This project showcases the process of transforming raw sales data into meaningful insights using Microsoft Excel. It includes data cleaning, validation, analysis, and dashboard creation.
 
+📊 Key Insights
+- The West region generated the highest revenue
+- Sales peaked during Q4, indicating seasonal demand
+- Technology category contributed the most to total sales
+- Average order value increased by X% over time
+
 🧹 Data Cleaning
 
 * Removed duplicate records
