@@ -37,7 +37,9 @@ This project showcases the process of transforming raw sales data into meaningfu
 
 📸 Dashboard Preview
 
-![Dashboard](dashboard.jpg)
+![Dashboard](dashbroad.jpg)
+![dataset](dataset.jpeg)
+![pivot_table](pivottable.jpeg)
 
 
  🚀 What I Learned
